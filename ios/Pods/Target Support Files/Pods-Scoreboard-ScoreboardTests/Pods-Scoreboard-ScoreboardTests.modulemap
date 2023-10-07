@@ -1,0 +1,6 @@
+module Pods_Scoreboard_ScoreboardTests {
+  umbrella header "Pods-Scoreboard-ScoreboardTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

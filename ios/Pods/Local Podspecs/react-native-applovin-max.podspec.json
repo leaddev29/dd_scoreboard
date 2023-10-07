@@ -1,0 +1,24 @@
+{
+  "name": "react-native-applovin-max",
+  "version": "3.3.1",
+  "summary": "AppLovin MAX React Native Plugin for Android and iOS",
+  "homepage": "https://github.com/AppLovin/AppLovin-MAX-React-Native",
+  "license": "MIT",
+  "authors": "AppLovin Corporation",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/AppLovin/AppLovin-MAX-React-Native.git",
+    "tag": "release_3_3_1"
+  },
+  "source_files": "ios/AppLovinMAX*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "AppLovinSDK": [
+      "11.5.1"
+    ]
+  }
+}

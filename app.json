@@ -1,0 +1,8 @@
+{
+  "name": "Scoreboard",
+  "displayName": "Scoreboard",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4087807974103001~2362739846",
+    "ios_app_id": "ca-app-pub-4087807974103001~2958432372"
+  }
+}
